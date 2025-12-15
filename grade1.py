@@ -16,5 +16,4 @@ with open("grade_output.txt", "a") as file:
     print(f"Marks: {marks}", file=file)
     print(f"Grade: {grade}", file=file)
     print("-" * 30, file=file)
-
 print("Grade stored in grade_output.txt")

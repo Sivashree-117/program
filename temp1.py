@@ -46,5 +46,4 @@ with open("temperature_output.txt", "a") as file:
     print(f"Input Temp    : {temp}", file=file)
     print(f"Result        : {result} {unit}", file=file)
     print("-" * 35, file=file)
-
 print("Temperature result stored in temperature_output.txt")

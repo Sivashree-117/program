@@ -20,7 +20,6 @@ print("4. Division")
 choice = int(input("Enter your choice (1-4): "))
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
-
 if choice == 1:
     operation = "Addition"
     result = add(num1, num2)
