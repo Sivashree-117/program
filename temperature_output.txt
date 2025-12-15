@@ -1,0 +1,19 @@
+
+--Temperature Record--
+Choice Entered : 2
+Conversion    : Fahrenheit to Celsius
+Input Temp    : 37.0
+Result        : 2.7777777777777777 C
+-----------------------------------
+--Temperature Record--
+Choice Entered : 1
+Conversion    : Celsius to Fahrenheit
+Input Temp    : 56.0
+Result        : 132.8 F
+-----------------------------------
+--Temperature Record--
+Choice Entered : 6
+Conversion    : Kelvin to Fahrenheit
+Input Temp    : 345.0
+Result        : 161.33000000000004 F
+-----------------------------------

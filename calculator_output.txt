@@ -1,0 +1,22 @@
+
+ //Calculator Record// 
+Choice Entered : 1
+Operation     : Addition
+Number 1      : 117.0
+Number 2      : 451.0
+Result        : 568.0
+-----------------------------------
+ //Calculator Record// 
+Choice Entered : 3
+Operation     : Multiplication
+Number 1      : 45.0
+Number 2      : 6.0
+Result        : 270.0
+-----------------------------------
+ //Calculator Record// 
+Choice Entered : 4
+Operation     : Division
+Number 1      : 286.0
+Number 2      : 2.0
+Result        : 143.0
+-----------------------------------
