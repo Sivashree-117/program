@@ -12,7 +12,6 @@ elif marks >= 60:
     grade = "D"
 else:
     grade = "Fail"
-
 with open("grade_output.txt", "a") as file:
     print(f"Marks: {marks}", file=file)
     print(f"Grade: {grade}", file=file)

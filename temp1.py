@@ -38,7 +38,7 @@ else:
     result = "No result"
     unit = ""
 
-# 👉 Store EVERYTHING
+#  Store EVERYTHING
 with open("temperature_output.txt", "a") as file:
     print("--Temperature Record--", file=file)
     print(f"Choice Entered : {choice}", file=file)
